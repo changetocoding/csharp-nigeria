@@ -11,7 +11,7 @@ Ex: fizzbuzz, Bart Simpson's lines - looping
 
 ### Grouping 2: Strings
 - String format `$"{var1} - {var2}"`
-- Char/string difference `"" vs ''`
+- Char/string difference `"" vs ''`. Char represents 1 character. String is a collection of characters
 - Substring
 - Find/Replace in string
 Ex: Quiz game, Checkout (minus class bit), Rock paper scissors game
