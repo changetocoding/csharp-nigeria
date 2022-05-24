@@ -73,7 +73,7 @@ https://education.launchcode.org/intro-to-programming-csharp/chapters/classes-pa
 
 **Ex:**
 
-### Grouping 10: 
+### Grouping 10: Lesson
 Lesson 1: 
 
 
