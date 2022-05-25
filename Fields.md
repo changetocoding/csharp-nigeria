@@ -11,7 +11,7 @@ Fields keep internal state (normally). Only the current instance can access the 
 all the instances share the value in the static field and can access it
 
 ## Static Method - can be called from class `Car.MyStaticMethod()`. Can only access static fields
-```
+```cs
     class Counter
     {
         private static int _count = 0;
@@ -66,8 +66,9 @@ We also have Properties with a backing field
             Car.IsExpensiveCarStatic("Kia");
         }
     }
-    ```
-    ```cs
+```
+
+```cs
     public class Vehicle
     {
         protected int _wheels = 0;
